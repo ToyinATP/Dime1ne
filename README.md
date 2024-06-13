@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dime1ne
+- 👋 Hi, I’m @ToyinATP
 - 👀 I’m interested in data analysis and data visualization
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on all things data analysis
